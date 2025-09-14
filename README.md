@@ -77,3 +77,6 @@ I love exploring **AI, ML, Web Development, and Full-Stack projects**. Always cu
 ---
 
 [![](https://visitcount.itsvg.in/api?id=suddhumaddi&icon=0&color=5)](https://visitcount.itsvg.in)
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+
