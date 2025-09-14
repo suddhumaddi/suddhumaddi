@@ -77,7 +77,7 @@ I love exploring **AI, ML, Web Development, and Full-Stack projects**. Always cu
 ---
 
 
-![Profile views](https://gpvc.arturio.dev/suddhumaddi)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=suddhumaddi.suddhumaddi)
 
 
 
